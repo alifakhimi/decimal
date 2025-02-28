@@ -32,7 +32,7 @@ Our aim is to continue maintaining the library as well as make it easier to deve
 
 ## Install
 
-Run `go get github.com/greatcloak/decimal`
+Run `go get github.com/alifakhimi/decimal`
 
 ## Requirements
 
