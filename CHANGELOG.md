@@ -4,7 +4,7 @@
 
 ## Decimal v1.4.0
 
-Forked as https://github.com/greatcloak/decimal.
+Forked as https://github.com/alifakhimi/decimal.
 
 - Update readme with project status and fork info
 - Refactor files/tests for readability and fix go linter errors

@@ -2,8 +2,8 @@
 
 <!-- [![Github Actions](https://github.com/shopspring/decimal/actions/workflows/ci.yml/badge.svg)](https://github.com/shopspring/decimal/actions/workflows/ci.yml) -->
 
-[![GoDoc](https://godoc.org/github.com/greatcloak/decimal?status.svg)](https://godoc.org/github.com/greatcloak/decimal)
-[![Go Report Card](https://goreportcard.com/badge/github.com/greatcloak/decimal)](https://goreportcard.com/report/github.com/greatcloak/decimal)
+[![GoDoc](https://godoc.org/github.com/alifakhimi/decimal?status.svg)](https://godoc.org/github.com/alifakhimi/decimal)
+[![Go Report Card](https://goreportcard.com/badge/github.com/alifakhimi/decimal)](https://goreportcard.com/report/github.com/alifakhimi/decimal)
 
 Arbitrary-precision fixed-point decimal numbers in go.
 
@@ -20,7 +20,7 @@ _Note:_ Decimal library can "only" represent numbers with a maximum of 2^31 digi
 
 ## History & Project Status
 
-This project is based on [shopspring/decimal](https://github.com/greatcloak/decimal) which was originally a heavily modified fork of [fpd.Decimal](https://github.com/oguzbilgic/fpd).
+This project is based on [shopspring/decimal](https://github.com/alifakhimi/decimal) which was originally a heavily modified fork of [fpd.Decimal](https://github.com/oguzbilgic/fpd).
 
 Our aim is to continue maintaining the library as well as make it easier to develop with/on. Notable changes include:
 
@@ -45,7 +45,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/greatcloak/decimal"
+	"github.com/alifakhimi/decimal"
 )
 
 func main() {
@@ -75,7 +75,7 @@ func main() {
 
 ## Documentation
 
-http://godoc.org/github.com/greatcloak/decimal
+http://godoc.org/github.com/alifakhimi/decimal
 
 ## Production Usage
 
@@ -143,4 +143,4 @@ than performance.
 
 The MIT License (MIT).
 
-This is a modified fork of [shopspring/decimal](https://github.com/greatcloak/decimal) which was originally a heavily modified fork of [fpd.Decimal](https://github.com/oguzbilgic/fpd). Both were released under the MIT License.
+This is a modified fork of [shopspring/decimal](https://github.com/alifakhimi/decimal) which was originally a heavily modified fork of [fpd.Decimal](https://github.com/oguzbilgic/fpd). Both were released under the MIT License.

@@ -1,4 +1,4 @@
-module github.com/greatcloak/decimal
+module github.com/alifakhimi/decimal
 
 go 1.21
 
